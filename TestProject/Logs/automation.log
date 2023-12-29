@@ -1,0 +1,35 @@
+INFO:root:************** test_homePageTitle ****************
+INFO:root:************** Verifying Home Page Title ****************
+INFO:root:************** Home Page Title TestCase passed ****************
+INFO:root:************** test_homePageTitle ****************
+INFO:root:************** Verifying Home Page Title ****************
+INFO:root:************** Home Page Title TestCase passed ****************
+INFO:root:************** test_login ****************
+INFO:root:************** Verifying Login Test ****************
+INFO:root:************** test_verifyTabs ****************
+INFO:root:************** Verifying Tabs names ****************
+INFO:root:************** Verifying Tabs names TestCase failed ****************
+12/19/2023 11:23:09 PM: INFO: ************** test_homePageTitle ****************
+12/19/2023 11:23:09 PM: INFO: ************** Verifying Home Page Title ****************
+12/19/2023 11:23:09 PM: INFO: ************** Home Page Title TestCase passed ****************
+20/12/2023 07:12:20 PM: INFO: ************** test_homePageTitle ****************
+20/12/2023 07:12:20 PM: INFO: ************** Verifying Home Page Title ****************
+20/12/2023 07:12:20 PM: INFO: ************** Home Page Title TestCase passed ****************
+20/12/2023 07:14:21 PM: INFO: ************** test_login ****************
+20/12/2023 07:14:21 PM: INFO: ************** Verifying Login Test ****************
+20/12/2023 07:14:21 PM: INFO: ************** test_homePageTitle ****************
+20/12/2023 07:14:21 PM: INFO: ************** Verifying Home Page Title ****************
+20/12/2023 07:14:21 PM: INFO: ************** Home Page Title TestCase passed ****************
+20/12/2023 07:14:26 PM: INFO: ************** Login TestCase passed ****************
+20/12/2023 07:15:55 PM: INFO: ************** test_homePageTitle ****************
+20/12/2023 07:15:55 PM: INFO: ************** Verifying Home Page Title ****************
+20/12/2023 07:15:55 PM: INFO: ************** test_login ****************
+20/12/2023 07:15:55 PM: INFO: ************** Verifying Login Test ****************
+20/12/2023 07:15:55 PM: INFO: ************** Home Page Title TestCase passed ****************
+20/12/2023 07:16:00 PM: INFO: ************** Login TestCase passed ****************
+20/12/2023 07:33:57 PM: INFO: ************** test_homePageTitle ****************
+20/12/2023 07:33:57 PM: INFO: ************** Verifying Home Page Title ****************
+20/12/2023 07:33:57 PM: INFO: ************** Home Page Title TestCase passed ****************
+20/12/2023 07:34:43 PM: INFO: ************** test_login ****************
+20/12/2023 07:34:43 PM: INFO: ************** Verifying Login Test ****************
+20/12/2023 07:34:53 PM: INFO: ************** Login TestCase passed ****************

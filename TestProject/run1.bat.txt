@@ -1,0 +1,3 @@
+pytest --browser chrome -m sanity
+rem pytest --browser chrome -m regression
+rem pytest --browser chrome -m "sanity and regression"
